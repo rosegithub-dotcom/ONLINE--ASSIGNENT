@@ -1,0 +1,11 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+
+}
+h5 ,h6{
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+}
